@@ -12,16 +12,10 @@
 Here are some of the projects and repositories I've worked on:
 
 ### 🔧 [NILOA](https://github.com/PetrosPoly/NILOA)
-A recommedation system built to support next-object interaction. 
-
-### 🤖 [PythonRobotics](https://github.com/PetrosPoly/PythonRobotics)
-Python sample codes for robotics algorithms like localization, mapping, path planning, and control. *(Forked from AtsushiSakai/PythonRobotics)*
-
-### 🗺️ [PathFinder](https://github.com/PetrosPoly/PathFinder)
-Java-based implementations of A* and Dijkstra algorithms for efficient pathfinding. *(Forked from kevinwang1975/PathFinder)*
+A recommedation AI system built to support next-object interaction without **visual input** using Large Language Models and egocentric heuristics.
 
 ### ☁️ [DDPM-diffusion_model](https://github.com/PetrosPoly/DDPM-diffusion_model)
-PyTorch implementation of Denoising Diffusion Probabilistic Models (DDPM) for generative modeling. *(Forked from m-schillinger/DDPM-dome272)*
+PyTorch implementation of Denoising Diffusion Probabilistic Models (DDPM) for generative modeling of wind and temperature data. *(Forked from m-schillinger/DDPM-dome272)*
 
 ---
 
