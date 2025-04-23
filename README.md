@@ -2,7 +2,7 @@
 
 🎓 **Master’s Graduate in Robotics & AI from ETH Zurich**  
 📍 **Zurich, Switzerland**  
-🔬 Passionate about computer vision, ML/AI, and real-world applications  
+🔬 Passionate about computer vision, ML/AI, predictive modelling and real-world applications especially in the world of finance.
 🌐 [LinkedIn](https://www.linkedin.com/in/petros-polydorou/)
 
 ---
